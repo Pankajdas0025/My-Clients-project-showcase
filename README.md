@@ -24,3 +24,13 @@ This repository is **private** and intended for internal use only. The code is o
 **GitHub Proprietary License**  
 
 All rights are reserved. You **may not** copy, modify, distribute, or use any of the code without explicit permission. This ensures the privacy and security of all client projects.
+
+
+
+| 🖼️ **Project Preview**                                                          | 🔗 **Live Demo / View Project**                 |
+| -------------------------------------------------------------------------------- | ----------------------------------------------- |
+| ![Project 1](https://via.placeholder.com/300x180.png?text=CampusXchange+Website) | [🌐 View Project](https://yourprojectlink1.com) |
+| ![Project 2](https://via.placeholder.com/300x180.png?text=Smart+Travel+Explorer) | [🌐 View Project](https://yourprojectlink2.com) |
+| ![Project 3](https://via.placeholder.com/300x180.png?text=Portfolio+Website)     | [🌐 View Project](https://yourprojectlink3.com) |
+| ![Project 4](https://via.placeholder.com/300x180.png?text=Client+Business+Site)  | [🌐 View Project](https://yourprojectlink4.com) |
+
