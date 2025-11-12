@@ -30,7 +30,7 @@ All rights are reserved. You **may not** copy, modify, distribute, or use any of
 | 🖼️ **Project Preview**                                                          | 🔗 **Live Demo / View Project**                 |
 | -------------------------------------------------------------------------------- | ----------------------------------------------- |
 | ![Project 1](images/Paramount.png?text=CampusXchange+Website) | [🌐 View Project](https://pankajdas0025.github.io/Paramount-Coaching-Centre/) |
-| ![Project 2](videos/Smart%20Travel%20Explorer.mp4?text=Smart+Travel+Explorer) | [🌐 View Project](https://yourprojectlink2.com) |
+| ![Project 2](videos/Smart.mp4?text=Smart+Travel+Explorer) | [🌐 View Project](https://yourprojectlink2.com) |
 | ![Project 3](https://via.placeholder.com/300x180.png?text=Portfolio+Website)     | [🌐 View Project](https://yourprojectlink3.com) |
 | ![Project 4](https://via.placeholder.com/300x180.png?text=Client+Business+Site)  | [🌐 View Project](https://yourprojectlink4.com) |
 
