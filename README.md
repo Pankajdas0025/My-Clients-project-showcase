@@ -27,10 +27,10 @@ All rights are reserved. You **may not** copy, modify, distribute, or use any of
 
 
 
-| 🖼️ **Project Preview** | 🔗 **Live Demo / View Project** |
-|--------------------------|--------------------------------|
-| <img src="images/Paramount.png" width="250"> | [🌐 View Project](https://pankajdas0025.github.io/Paramount-Coaching-Centre/) |
-| <video width="300" controls><source src="videos/Smart.mp4" type="video/mp4"></video> | [🌐 View Project](https://yourprojectlink2.com) |
-| <img src="images/Paramount.png" width="250"> | [🌐 View Project](https://pankajdas0025.github.io/Paramount-Coaching-Centre/) |
-| <img src="images/Paramount.png" width="250"> | [🌐 View Project](https://pankajdas0025.github.io/Paramount-Coaching-Centre/) |
+| 🖼️ **Project Preview**                                                          | 🔗 **Live Demo / View Project**                 |
+| -------------------------------------------------------------------------------- | ----------------------------------------------- |
+| ![Project 1](images/Paramount.png?text=CampusXchange+Website) | [🌐 View Project](https://pankajdas0025.github.io/Paramount-Coaching-Centre/) |
+| ![Project 2](videos/Smart%20Travel%20Explorer.mp4?text=Smart+Travel+Explorer) | [🌐 View Project](https://yourprojectlink2.com) |
+| ![Project 3](https://via.placeholder.com/300x180.png?text=Portfolio+Website)     | [🌐 View Project](https://yourprojectlink3.com) |
+| ![Project 4](https://via.placeholder.com/300x180.png?text=Client+Business+Site)  | [🌐 View Project](https://yourprojectlink4.com) |
 
