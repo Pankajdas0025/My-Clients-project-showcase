@@ -25,9 +25,31 @@ This repository is **private** and intended for internal use only. The code is o
 
 All rights are reserved. You **may not** copy, modify, distribute, or use any of the code without explicit permission. This ensures the privacy and security of all client projects.
 
+<table>
 
-| 🖼️ **Project Preview** | 🔗 **Live Demo / View Project** |
-|--------------------------|--------------------------------|
-| <img src="images/Paramount.png" width="50%"> | [🌐 View Project](https://pankajdas0025.github.io/Paramount-Coaching-Centre/) |
-| <img src="images/STE.png" width="50%"> | [🌐 View Project](#) |
-| <img src="images/Smita.png" width="50%"> | [🌐 View Project](#) |
+  <thead>
+    <th>Project Preview</th>
+    <td>Title/Name</td>
+    <th>Live Demo</th>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td width="33%" > <img src="images/Paramount.png"> </td>
+      <td width="33%" > Paramount coaching website</td>
+      <td width="33%" > <a href="https://pankajdas0025.github.io/Paramount-Coaching-Centre/" >🌐 Live View </a></td>
+    </tr>
+        <tr>
+      <td width="33%" > <img src="images/STE.png"> </td>
+      <td width="33%" > Smart Explorer</td>
+      <td width="33%" > <a href="https://pankajdas0025.github.io/Paramount-Coaching-Centre/" >🌐 Live View </a></td>
+    </tr>
+        <tr>
+      <td width="33%" > <img src="images/Smita.png"> </td>
+      <td width="33%" > Smita Portfolio Website</td>
+      <td width="33%" > <a href="https://pankajdas0025.github.io/Paramount-Coaching-Centre/" >🌐 Live View </a></td>
+    </tr>
+    
+  </tbody>
+</table>
+
