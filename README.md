@@ -21,7 +21,7 @@ A private showcase of web development projects created for clients, highlighting
         <tr>
       <td width="33%" > <img src="images/STE.png"> </td>
       <td width="33%" > Smart Explorer</td>
-      <td width="33%" > <a href="https://pankajdas0025.github.io/Paramount-Coaching-Centre/" >🌐 Live View </a></td>
+      <td width="33%" > <a href="https://youtu.be/7fPNNUCMgos?si=JQ21ReMsjf5yQqDt" >🌐 Live View </a></td>
     </tr>
         <tr>
       <td width="33%" > <img src="images/Smita.png"> </td>
