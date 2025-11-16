@@ -1,4 +1,4 @@
-# My-Clients-Project-Showcase
+<img width="1835" height="885" alt="image" src="https://github.com/user-attachments/assets/9cae8fdd-cafc-4f7a-b995-713859390330" /># My-Clients-Project-Showcase
 
 A private showcase of web development projects created for clients, highlighting custom solutions built using HTML, CSS, JavaScript, PHP, and MySQL. Each project is designed with client requirements in mind, focusing on responsive layouts, clean design, and functional features.
 
@@ -27,6 +27,11 @@ A private showcase of web development projects created for clients, highlighting
       <td width="33%" > <img src="images/Smita.png"> </td>
       <td width="33%" > Smita Portfolio Website</td>
       <td width="33%" > <a href="https://pankajdas0025.github.io/Paramount-Coaching-Centre/" >🌐 Live View </a></td>
+    </tr>
+    <tr>
+      <td width="33%" > <img src="images/Campusxchange.png"> </td>
+      <td width="33%" > Campusxchange Services </td>
+      <td width="33%" > <a href="https://campusxchange.wuaze.com/home" >🌐 Live View </a></td>
     </tr>
     
   </tbody>
