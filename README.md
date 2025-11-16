@@ -1,5 +1,4 @@
-<img width="1835" height="885" alt="image" src="https://github.com/user-attachments/assets/9cae8fdd-cafc-4f7a-b995-713859390330" /># My-Clients-Project-Showcase
-
+# My-Clients-Project-Showcase
 A private showcase of web development projects created for clients, highlighting custom solutions built using HTML, CSS, JavaScript, PHP, and MySQL. Each project is designed with client requirements in mind, focusing on responsive layouts, clean design, and functional features.
 
 ---
