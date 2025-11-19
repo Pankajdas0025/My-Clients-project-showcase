@@ -25,7 +25,7 @@ A private showcase of web development projects created for clients, highlighting
         <tr>
       <td width="33%" > <img src="images/Smita.png"> </td>
       <td width="33%" > Smita Portfolio Website</td>
-      <td width="33%" > <a href="https://pankajdas0025.github.io/Paramount-Coaching-Centre/" >🌐 Live View </a></td>
+      <td width="33%" > <a href="https://github.com/smitakumari02/its-smita-portfolio.git" >🌐 Live View </a></td>
     </tr>
     <tr>
       <td width="33%" > <img src="images/Campusxchange.png"> </td>
