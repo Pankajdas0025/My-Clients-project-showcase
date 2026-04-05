@@ -32,6 +32,26 @@ A private showcase of web development projects created for clients, highlighting
       <td width="33%" > Campusxchange Services </td>
       <td width="33%" > <a href="https://campusxchange.wuaze.com/home" >🌐 Live View </a></td>
     </tr>
+    <tr>
+      <td width="33%" > <img src="images/edms.png"> </td>
+      <td width="33%" > Employee Database Management System</td>
+      <td width="33%" > <a href="#" >🌐 Live View </a></td>
+    </tr>
+    <tr>
+      <td width="33%" > <img src="images/Blogscript.png"> </td>
+      <td width="33%" > BlogScript Web Application </td>
+      <td width="33%" > <a href="#" >🌐 Live View </a></td>
+    </tr>
+    <tr>
+      <td width="33%" > <img src="images/mandal-comm.png"> </td>
+      <td width="33%" > Mandal Communication  </td>
+      <td width="33%" > <a href="#" >🌐 Live View </a></td>
+    </tr>
+    <tr>
+      <td width="33%" > <img src="images/news-portal.png"> </td>
+      <td width="33%" > News Portal </td>
+      <td width="33%" > <a href="#" >🌐 Live View </a></td>
+    </tr>
     
   </tbody>
 </table>
