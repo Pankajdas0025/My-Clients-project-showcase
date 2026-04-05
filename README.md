@@ -43,12 +43,12 @@ A private showcase of web development projects created for clients, highlighting
       <td width="33%" > <a href="#" >🌐 Live View </a></td>
     </tr>
     <tr>
-      <td width="33%" > <img src="images/mandal-comm.png"> </td>
+      <td width="33%" > <img src="images/Mandal-comm.png"> </td>
       <td width="33%" > Mandal Communication  </td>
       <td width="33%" > <a href="#" >🌐 Live View </a></td>
     </tr>
     <tr>
-      <td width="33%" > <img src="images/news-portal.png"> </td>
+      <td width="33%" > <img src="images/News-portal.png"> </td>
       <td width="33%" > News Portal </td>
       <td width="33%" > <a href="#" >🌐 Live View </a></td>
     </tr>
