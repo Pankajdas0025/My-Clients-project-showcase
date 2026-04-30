@@ -30,7 +30,7 @@ A private showcase of web development projects created for clients, highlighting
     <tr>
       <td width="33%" > <img src="images/Campusxchange.png"> </td>
       <td width="33%" > Campusxchange Services </td>
-      <td width="33%" > <a href="https://campusxchange.wuaze.com/home" >🌐 Live View </a></td>
+      <td width="33%" > <a href="https://campusxchange-services.free.nf/ >🌐 Live View </a></td>
     </tr>
     <tr>
       <td width="33%" > <img src="images/edms.png"> </td>
@@ -45,12 +45,12 @@ A private showcase of web development projects created for clients, highlighting
     <tr>
       <td width="33%" > <img src="images/Mandal-comm.png"> </td>
       <td width="33%" > Mandal Communication  </td>
-      <td width="33%" > <a href="#" >🌐 Live View </a></td>
+      <td width="33%" > <a href="http://www.web-demo.free.nf/" >🌐 Live View </a></td>
     </tr>
     <tr>
       <td width="33%" > <img src="images/News-portal.png"> </td>
-      <td width="33%" > News Portal </td>
-      <td width="33%" > <a href="#" >🌐 Live View </a></td>
+      <td width="33%" > Life News Portal </td>
+      <td width="33%" > <a href="https://life-news-tech-portal.kesug.com/" >🌐 Live View </a></td>
     </tr>
     
   </tbody>
