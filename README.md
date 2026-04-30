@@ -40,7 +40,7 @@ A private showcase of web development projects created for clients, highlighting
     <tr>
       <td width="33%" > <img src="images/Blogscript.png"> </td>
       <td width="33%" > BlogScript Web Application </td>
-      <td width="33%" > <a href="#" >🌐 Live View </a></td>
+      <td width="33%" > <a href="https://blogscriptapp.free.nf/" >🌐 Live View </a></td>
     </tr>
     <tr>
       <td width="33%" > <img src="images/Mandal-comm.png"> </td>
