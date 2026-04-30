@@ -22,7 +22,7 @@ A private showcase of web development projects created for clients, highlighting
       <td width="33%" > Smart Explorer</td>
       <td width="33%" > <a href="https://youtu.be/7fPNNUCMgos?si=JQ21ReMsjf5yQqDt" >🌐 Live View </a></td>
     </tr>
-        <tr>
+    <tr>
       <td width="33%" > <img src="images/Smita.png"> </td>
       <td width="33%" > Smita Portfolio Website</td>
       <td width="33%" > <a href="https://github.com/smitakumari02/its-smita-portfolio.git" >🌐 Live View </a></td>
@@ -30,7 +30,7 @@ A private showcase of web development projects created for clients, highlighting
     <tr>
       <td width="33%" > <img src="images/Campusxchange.png"> </td>
       <td width="33%" > Campusxchange Services </td>
-      <td width="33%" > <a href="https://campusxchange-services.free.nf/ >🌐 Live View </a></td>
+      <td width="33%" > <a href="https://campusxchange-services.free.nf/">🌐 Live View </a></td>
     </tr>
     <tr>
       <td width="33%" > <img src="images/edms.png"> </td>
