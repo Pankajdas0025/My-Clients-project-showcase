@@ -23,6 +23,17 @@ A private showcase of web development projects created for clients, highlighting
       <td width="33%" > <a href="https://web-demo.free.nf/index" >🌐 Live View </a></td>
     </tr>
     <tr>
+      <td width="33%" > <img src="images/Campusxchange.png"> </td>
+      <td width="33%" > Campusxchange Services </td>
+      <td width="33%" > <a href="https://campusxchange-services.free.nf/">🌐 Live View </a></td>
+    </tr>
+    <tr>
+      <td width="33%" > <img src="images/edms.png"> </td>
+      <td width="33%" > Employee Database Management System</td>
+      <td width="33%" > <a href="#" >🌐 Live View </a></td>
+    </tr>
+    <tr>
+    <tr>
       <td width="33%" > <img src="images/Paramount.png"> </td>
       <td width="33%" > Paramount coaching website</td>
       <td width="33%" > <a href="https://pankajdas0025.github.io/Paramount-Coaching-Centre/" >🌐 Live View </a></td>
@@ -37,17 +48,6 @@ A private showcase of web development projects created for clients, highlighting
       <td width="33%" > Smita Portfolio Website</td>
       <td width="33%" > <a href="https://github.com/smitakumari02/its-smita-portfolio.git" >🌐 Live View </a></td>
     </tr>
-    <tr>
-      <td width="33%" > <img src="images/Campusxchange.png"> </td>
-      <td width="33%" > Campusxchange Services </td>
-      <td width="33%" > <a href="https://campusxchange-services.free.nf/">🌐 Live View </a></td>
-    </tr>
-    <tr>
-      <td width="33%" > <img src="images/edms.png"> </td>
-      <td width="33%" > Employee Database Management System</td>
-      <td width="33%" > <a href="#" >🌐 Live View </a></td>
-    </tr>
-    <tr>
       <td width="33%" > <img src="images/News-portal.png"> </td>
       <td width="33%" > Life News Portal </td>
       <td width="33%" > <a href="https://life-news-tech-portal.kesug.com/" >🌐 Live View </a></td>
