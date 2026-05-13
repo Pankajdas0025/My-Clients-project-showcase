@@ -13,6 +13,16 @@ A private showcase of web development projects created for clients, highlighting
 
   <tbody>
     <tr>
+      <td width="33%" > <img src="images/Blogscript.png"> </td>
+      <td width="33%" > BlogScript Web Application </td>
+      <td width="33%" > <a href="https://blogscriptapp.free.nf/" >🌐 Live View </a></td>
+    </tr>
+    <tr>
+      <td width="33%" > <img src="images/Mandal-comm.png"> </td>
+      <td width="33%" > Mandal Communication  </td>
+      <td width="33%" > <a href="https://web-demo.free.nf/index" >🌐 Live View </a></td>
+    </tr>
+    <tr>
       <td width="33%" > <img src="images/Paramount.png"> </td>
       <td width="33%" > Paramount coaching website</td>
       <td width="33%" > <a href="https://pankajdas0025.github.io/Paramount-Coaching-Centre/" >🌐 Live View </a></td>
@@ -36,16 +46,6 @@ A private showcase of web development projects created for clients, highlighting
       <td width="33%" > <img src="images/edms.png"> </td>
       <td width="33%" > Employee Database Management System</td>
       <td width="33%" > <a href="#" >🌐 Live View </a></td>
-    </tr>
-    <tr>
-      <td width="33%" > <img src="images/Blogscript.png"> </td>
-      <td width="33%" > BlogScript Web Application </td>
-      <td width="33%" > <a href="https://blogscriptapp.free.nf/" >🌐 Live View </a></td>
-    </tr>
-    <tr>
-      <td width="33%" > <img src="images/Mandal-comm.png"> </td>
-      <td width="33%" > Mandal Communication  </td>
-      <td width="33%" > <a href="http://www.web-demo.free.nf/" >🌐 Live View </a></td>
     </tr>
     <tr>
       <td width="33%" > <img src="images/News-portal.png"> </td>
